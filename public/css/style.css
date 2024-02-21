@@ -1,0 +1,20 @@
+/* header */
+.navbar ul {
+    display: flex; /*permet d'afficher en horizontal*/
+    align-items: center; /*aligne tout les elements*/
+    justify-content: center;
+    gap: 3%; /* espace entre les element*/
+}
+
+.navbar ul li {
+    list-style-type: none; /* enlever les points devant les element d'une liste*/
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.img_logo {
+    border-radius: 15px;
+}
