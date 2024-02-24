@@ -1,5 +1,12 @@
-/* header */
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto.ttf');
+}
 
+body {
+    font-family: 'Roboto';
+}
+/* header */
 header {
     height: 100vh;
 }
